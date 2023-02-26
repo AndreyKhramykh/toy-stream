@@ -1,0 +1,15 @@
+@import url('@/assets/style/fonts.scss');
+@import url('@/assets/style/roots.scss');
+@import url('@/assets/style/mediascreen.scss');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Main;
+}
+
+

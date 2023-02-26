@@ -1,0 +1,11 @@
+:root {
+  --yellow: #FFEA2F;
+  --red: #CE0002;
+  --black: #000000;
+  --white: #FAFAFA;
+  --grey: #EFEFEF;
+  --socialNetIcon: #C3B6B6;
+  --footerTxt: #7E7E7E;
+  --redButtonWidth: 120px;
+  --halfRedButtonWidth: calc(var(--redButtonWidth) / 2);
+}/*# sourceMappingURL=roots.css.map */
